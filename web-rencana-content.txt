@@ -2,7 +2,9 @@ Rencana Kontent Web
 
 - Pelajari CSS
 - PHP Framework
+   ^ CodeIgniner
 - Javascript
+   ^ Vue
   * ES6
   * Framework Javascript
 - Struktur Data Dasar
