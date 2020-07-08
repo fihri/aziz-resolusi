@@ -1,0 +1,6 @@
+Rencana Kontent Web
+
+- Pelajari CSS
+- PHP Framework
+- Javascript
+- Kerja
