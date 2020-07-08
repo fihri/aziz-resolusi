@@ -8,5 +8,6 @@ Rencana Kontent Web
    ^ React
   * ES6
   * Framework Javascript
-- Struktur Data Dasar
+     ^ Angular
+     ^ React
 - Kerja
