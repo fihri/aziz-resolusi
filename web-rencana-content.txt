@@ -2,8 +2,10 @@ Rencana Kontent Web
 
 - Pelajari CSS
 - PHP Framework
+  ^ Laravel
 - Javascript
   * ES6
   * Framework Javascript
-- Struktur Data Dasar
+     ^ Angular
+     ^ React
 - Kerja
