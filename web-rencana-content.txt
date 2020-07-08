@@ -2,8 +2,10 @@ Rencana Kontent Web
 
 - Pelajari CSS
 - PHP Framework
-  ^ Laravel
+   ^ CodeIgniner
 - Javascript
+   ^ Vue
+   ^ React
   * ES6
   * Framework Javascript
      ^ Angular
