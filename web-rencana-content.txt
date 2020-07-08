@@ -5,6 +5,7 @@ Rencana Kontent Web
    ^ CodeIgniner
 - Javascript
    ^ Vue
+   ^ React
   * ES6
   * Framework Javascript
 - Struktur Data Dasar
